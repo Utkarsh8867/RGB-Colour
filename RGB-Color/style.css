@@ -1,0 +1,71 @@
+body {
+    background-color: #232323;
+}
+
+.square {
+    background-color: #232323;
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 25px;
+    border: 2px solid white;
+}
+
+#container {
+    max-width: 500px;
+    margin: 0 auto;
+    height: 465px;
+}
+
+h1 {
+    color: white;
+}
+
+#mainHeader {
+    text-align: center;
+    height: 100px;
+    font-weight: bolder;
+}
+
+.button {
+    color: red;
+}
+
+#subHeader {
+    background-color: white;
+    color: blue;
+    font-weight: bolder;
+}
+
+h3 {
+    font-size: 1.3rem;
+}
+
+#Message {
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+#newColor {
+    padding-left: 20rem;
+}
+
+#easy {
+    padding-right: 3rem;
+    padding-left: 5rem;
+}
+
+button {
+    background-color: blueviolet;
+    font-weight: bolder;
+}
+
+footer {
+    background-color: #232323;
+    height: 120px;
+    text-align: center;
+    font-size: x-large;
+    font-size: 40px;
+    font-weight: bolder;
+}
