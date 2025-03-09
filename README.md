@@ -37,6 +37,4 @@ Welcome to the **RGB Colour Guess Game**! Test your color recognition skills and
 - **Squares**: Interactive color boxes to guess the color.
 - **Footer**: Appears when the game is finished, displaying a "Thank You for Playing" message.
 
-## Screenshots
 
-*Insert screenshots of the game UI here*
